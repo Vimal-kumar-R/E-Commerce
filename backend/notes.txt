@@ -1,0 +1,7 @@
+npm i validator = email validator
+npm i bcrypt = hased password
+npm i jsonwebtoken = webtoken genrater
+npm i cookie-parser
+npm i crypto // forget password random number genrater
+npm i nodemailer // to send mail
+

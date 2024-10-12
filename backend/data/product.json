@@ -1,0 +1,433 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 18950,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, offering brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+                
+            },
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+        "price": 1999,
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 100,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 36990,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz); Operating System: Windows 10 Home Single Language, English.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 10,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 34900,
+        "description": "Lenovo IdeaPad Slim 3 11th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 60,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 36900,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/6.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 70,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 1500,
+        "description": "Gigantic 60+ hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) technology to enhance your voice quality over voice calls.",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 80,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Campus Men's Maxico Running Shoes",
+        "price": 750,
+        "description": "The high raised back cover with extra padding for comfort.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Ebay",
+        "stock": 90,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74L (Black)",
+        "price": 73990,
+        "description": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 Hertz | 178 Degree wide viewing angle",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/9.jpg"
+                
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 20,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+
+    {
+        "name": "Bosch 9kg 5 Star Anti Stain & AI Active Water Plus Fully Automatic Front Load Washing. ",
+        "price": 18950,
+        "description": "Fully-automatic front load washing machine: Affordable with great wash quality,",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/10.jpg"
+                
+            },
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "LG 655 L Frost Free Smart Inverter Double Door Side by Side Refrigerator (2023 Model.",
+        "price": 72990,
+        "description": "Side by Side Frost Free Refrigerator: Premium Refrigerators with auto-defrost function.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/11.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Flipkart",
+        "stock": 100,
+        "numOfReviews": 4.5,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPhone 16 Pro Max (256 GB) - Desert Titanium",
+        "price": 140.000,
+        "description": "iPhone 16 Pro Max. Built for Apple Intelligence. Featuring a stunning titanium design. ",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/12.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Ebay",
+        "stock": 100,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Boult Audio UFO Truly Wireless in Ear Earbuds with 48H Playtime, Built-in App Support. ",
+        "price": 1298,
+        "description": "48H Playtime: Enjoy an exceptional 48 hours of continuous playtime with these cutting-edge Bluetooth earbuds.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/13.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Ebay",
+        "stock": 160,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Frap Grey Car Body Cover for Maruti Suzuki Celerio(Triple Stitched,Mirror)",
+        "price": 742,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics.",
+        "ratings": 2.5,
+        "images": [
+            {
+                "image": "/images/products/14.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Ebay",
+        "stock": 170,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "TP-LINK Tapo 4Mp 2K Qhd(2560X1440) Outdoor CCTV Security Wi-Fi Smart Camera.",
+        "price": 2998,
+        "description": "2K QHD —— Records every image in crystal-clear 2560x1440 definition Full-Color Night Vision .",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/15.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "Amazon",
+        "stock": 280,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Pedigree Pro Adult Large Breed, Dry Dog Food (18 Months Onwards), 10 Kg Pack, Chicken",
+        "price": 3247,
+        "description": "ADAPTED KIBBLE SIZE: Pedigree PRO Dry Dog Food for Adult Large Breed Dogs is packed. ",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/16.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Ebay",
+        "stock": 120,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Introduction to NDT/NDE and Career Prospects in NDT/NDE",
+        "price":1800,
+        "description": "Partner Offers: Get GST invoice and save up to 28% on business purchases.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/17.jpg"
+                
+            }
+        ],
+        "category": "Books",
+        "seller": "Ebay",
+        "stock": 200,
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "Oppo Reno7 Pro 5G (Startrails Blue, 12GB RAM, 256GB Storage)",
+        "price": 39999,
+        "description": "12 GB RAM | 256 GB ROM ,16.51 cm (6.5 inch) Full HD+ AMOLED Display ,50MP + 8MP + 2MP | 32MP Front Camera ,4500 mAh Lithium-ion Polymer Battery ,MediaTek Dimensity 1200-Max Processor",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/Oppo_reno_7pro.jpg"
+                
+            },
+            {
+                "image": "/images/products/Oppo_reno_7pro2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "RLRV Cart",
+        "stock": 104,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "E Motorad - Ride The Electric Revolution T-Rex Air Unisex Electric Bicycle",
+        "price": 34499,
+        "description": "E Motorad - Ride The Electric Revolution T-Rex Air Unisex Electric Bicycle 29 Wheel Size 16.5 Sturdy High Tensile Steel Frame 250W Bldc Motor Front Suspension 7 Speed Shimano Gears - 16.50 Inch",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/cycling.jpg"
+                
+            },
+            {
+                "image": "/images/products/cycling2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "RLRV Cart",
+        "stock": 4.7,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Kore PVC 30 Kg Combo 343 with PVC Adjustable Dumbbells Home Gym Kit, Multicolour",
+        "price": 2500,
+        "description": "Department_Name: Unisex-Adult,Included_Components: 30 Kg Of Pvc Weight (2.5 Kg X 4 = 10 Kg + 5 Kg X 4 = 20Kg ), 1 X 3 Feet Plain Rod + 1 X 3 Feet Curl Rod + 2 X 14,  Dumbbell Rods, 1 Kg X 2 Pvc Dumbells, 100% Pure Leather Gym Gloves, 1 Gym Backpack, 1 Skipping Rope, 1 Hand Gripper, 4 Locks And Clippers Comes With The Rods.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/Home_Gym.jpg"
+                
+            },
+            {
+                "image": "/images/products/Home_Gym2.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "RLRV Cart",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Despacito Aquarium Air Pump for Fish Tank Noiseless Fish Tank. ",
+        "price": 854,
+        "description": "Despacito Aquarium Air Pump for Fish Tank Noiseless Fish Tank Silent and Adjustable Oxygen Pump with Air Stone Fish Tank Motor Accessories Set Combo 2 Air Outlets and 2 Meter Air Tube Upto 300 Liter",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/Fish_Tank.jpg"
+                
+            },
+            {
+                "image": "/images/products/Fish_Tank2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "RLRV Cart",
+        "stock": 4.7,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lymio Men T-Shirt || T-Shirt for Men || Plain T Shirt || T-Shirt (Polo-18-21)",
+        "price": 18950,
+        "description": "Men T Shirt || T-Shirt For Men || Plain T Shirt || T-Shirt ,Pattern Type: Plain, Sleeve Length: Short Sleeve ,Color Disclaimer: Product color might slightly vary due to photographic lighting sources or your monitor settings",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/T-shirt.jpg"
+                
+            },
+            {
+                "image": "/images/products/T-shirt2.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "RLRV Cart",
+        "stock": 3,
+        "numOfReviews": 7,
+        "reviews": []
+    },
+    {
+        "name": "Sony WH-1000XM4 Industry Leading Wireless Noise Cancellation Bluetooth.",
+        "price": 19950,
+        "description": "Sony WH-1000XM4 Industry Leading Wireless Noise Cancellation Bluetooth Over Ear Headphones with Mic for Phone Calls, 30 Hours Battery Life, Quick Charge, AUX, Touch Control and Voice Control - Black",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/sony_Headphone.jpg"
+                
+            },
+            {
+                "image": "/images/products/sony_Headphone2.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "RLRV Cart",
+        "stock": 34,
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "OPTIMUM NUTRITION (ON) Serious Mass High Protein High Calorie Weight Gainer ",
+        "price": 3099,
+        "description": "OPTIMUM NUTRITION (ON) Serious Mass High Protein High Calorie Weight Gainer Powder - 3 kg (Chocolate) with Vitamins and Minerals, Vegetarian",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/Protien_Powder.jpg"
+                
+            },
+            {
+                "image": "/images/products/Protien_Powder2.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "RLRV Cart",
+        "stock": 230,
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "HAVAI Thunder 75 Desert Cooler - 75 Litres, 12 Inch Blade, Black",
+        "price": 7549,
+        "description": "Thick and Large Honeycomb at the back for effective cool air ,20 Feet Pleasant Air Throw – The Air Cooler has a pleasant Air Throw upto 20 feet,12 Inch Aerodynamic Blade to ensure a good blast of Air all around",
+        "ratings": 3.2,
+        "images": [
+            {
+                "image": "/images/products/aircool.jpg"
+                
+            },
+            {
+                "image": "/images/products/aircool2.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "RLRV Cart",
+        "stock": 13,
+        "numOfReviews": 8,
+        "reviews": []
+    }
+     
+     
+]
+
+
